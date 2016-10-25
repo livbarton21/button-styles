@@ -20,15 +20,15 @@ a:link {
 }
 
 .btn {
-display: inline-block;
-background-color: #333;
-color: #fff;
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  font-size: 1.125rem;
 }
 
 .btn:hover {
   background-color: #000;
 }
-
 
 .btn-subtle {
   background-color: #ccc;
