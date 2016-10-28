@@ -8,17 +8,17 @@ html {
 }
 
 div {
-  margin: 1em 0;
+  padding: .5rem;
   text-align: center;
 }
 
-a:link {
+a {
   text-decoration: none;
 }
 
 .btn {
   display: inline-block;
-  padding: .4em .75em;
+  padding: .5em 1em;
   border-radius: 8px;
   text-decoration: none;
   background-color: #333;
